@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "VoltParser",
+  "version": "1.0",
+  "description": "Парсинг статистики, фраз и семантики на Avito",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://www.avito.ru/*"],
+  "icons": {
+    "128": "icon1024.png"
+  },
+  "action": {
+    "default_icon": "icon1024.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.avito.ru/*"],
+      "js": ["utils.js", "phrases.js", "semantic.js", "content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
