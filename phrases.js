@@ -1,5 +1,3 @@
-// phrases.js – генерация смежных n-грамм (топ-500)
-
 function showPhrasesModal() {
     const existingModal = document.getElementById("voltparser-modal");
     if (existingModal) existingModal.remove();
