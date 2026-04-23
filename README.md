@@ -25,7 +25,7 @@
     <img width="1920" height="882" alt="image" src="https://github.com/user-attachments/assets/6cb5f008-9a63-4ec9-bc14-f599d4fb25b0" />
     <img width="564" height="257" alt="image" src="https://github.com/user-attachments/assets/8784343b-d0d6-471f-b7c4-e156fa8f3bbd" />
 5. ЛИБО разархивируйте .ZIP файл, нажмите “Загрузить распакованное” и выберите разархивированную папку
-    <img width="40" height="36" alt="image" src="https://github.com/user-attachments/assets/c76acd56-cfca-4179-a8d2-1a6584c87aed" />
+    <img width="1906" height="867" alt="image" src="https://github.com/user-attachments/assets/4a05bd1f-7490-4d17-a1a9-d4eed4c19d97" />
     <img width="944" height="593" alt="image" src="https://github.com/user-attachments/assets/092053d5-31e2-447d-bc17-7fcb325d4e2c" />
 6. Откройте любую страницу Avito со списком объявлений (поиск, категория, продавец).
 7. Нажмите иконку расширения — появится панель.
