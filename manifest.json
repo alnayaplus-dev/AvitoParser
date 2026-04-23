@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Avito Парсер",
-  "version": "0.65",
+  "name": "VoltParser",
+  "version": "0.9",
   "description": "Парсинг статистики, фраз и семантики прямо на Avito",
   "permissions": ["activeTab", "scripting"],
   "host_permissions": ["https://www.avito.ru/*"],
